@@ -1,1 +1,2 @@
 Welcome to texiri solutions
+Welcome to devOps training session
