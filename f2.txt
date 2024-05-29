@@ -1,4 +1,3 @@
 Welcome to texiri solutions
 Welcome to devOps training session
 Hello world to texiri
-Good Morning
